@@ -1,3 +1,9 @@
+python-autobahn (21.2.1-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 22 Feb 2021 00:01:58 +0000
+
 python-autobahn (20.7.1+dfsg1-6) unstable; urgency=medium
 
   * New upstream release.
